@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'database',
-			'username'  => 'root',
-			'password'  => '',
+			'host'      => 'od3n.mysql.eu1.frbit.com',
+			'database'  => 'od3n',
+			'username'  => 'od3n',
+			'password'  => 'CcvyYwr5f8IAIzuk',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
